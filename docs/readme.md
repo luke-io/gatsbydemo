@@ -2,4 +2,4 @@
 
 ## Link
 
-- https://luke-io.github.com/gatsbydemo
+- https://luke-io.github.io/gatsbydemo/
