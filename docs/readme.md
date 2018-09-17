@@ -1,4 +1,4 @@
-# Readmeb for gatsbydemo
+# Readme for gatsbydemo
 
 ## Link
 
